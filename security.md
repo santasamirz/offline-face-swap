@@ -158,3 +158,5 @@ registry entry and no background service.
 ---
 
 *offline-face-swap · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- rev 2026-10-24 -->
