@@ -157,4 +157,4 @@ registry entry and no background service.
 
 ---
 
-*offline-face-swap · Updated 2026-11-12 · Shared under the MIT License*
+*offline-face-swap · Updated 2026-11-13 · Shared under the MIT License*
